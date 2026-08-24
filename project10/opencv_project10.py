@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-cap = cv2.VideoCapture("C:/Users/Pc_Amir.Mhmd/Desktop/video_2026-08-08_19-04-16.mp4")
+cap = cv2.VideoCapture("C:/Users/Pc_Amir.Mhmd/Desktop/New folder (2)/video_2026-08-08_19-04-16.mp4")
 
 
 while True:

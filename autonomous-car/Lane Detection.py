@@ -28,6 +28,19 @@ while True:
             x1, y1, x2, y2 = line[0]
             cv2.line(frame,(x1, y1),(x2, y2),(0, 255, 0),2)
 
+            if x2 == x1:
+                continue
+            slope = (y2 - y1) / (x2 - x1)
+
+            left_lines = []
+            right_lines = []
+
+            if slope < -0.5:
+                left_lines.append((x1, y1, x2, y2))
+
+            if slope > 0.5:
+                right_lines.append((x1, y1, x2, y2))
+
 
     cv2.imshow("Camera", frame)
     cv2.imshow("ROI", roi)
