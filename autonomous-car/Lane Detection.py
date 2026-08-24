@@ -23,6 +23,9 @@ while True:
 
     lines = cv2.HoughLinesP(roi,1,np.pi / 180,50,minLineLength=10,maxLineGap=40)
 
+    left_lines = []
+    right_lines = []
+
     if lines is not None:
         for line in lines:
             x1, y1, x2, y2 = line[0]
@@ -32,8 +35,6 @@ while True:
                 continue
             slope = (y2 - y1) / (x2 - x1)
 
-            left_lines = []
-            right_lines = []
 
             if slope < -0.5:
                 left_lines.append((x1, y1, x2, y2))
