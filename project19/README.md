@@ -33,4 +33,4 @@ python opencv_project19.py
 
 ## Output
 
-https://github.com/user-attachments/assets/b10f3d70-eb81-4af0-a2b1-0771ae84354b
+[Watch the demo video](https://github.com/user-attachments/assets/b10f3d70-eb81-4af0-a2b1-0771ae84354b)
