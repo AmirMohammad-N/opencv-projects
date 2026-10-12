@@ -54,3 +54,13 @@ while True:
 cap.release()
 out.release()
 cv2.destroyAllWindows()
+
+
+import subprocess
+import imageio_ffmpeg
+
+ffmpeg = imageio_ffmpeg.get_ffmpeg_exe()
+
+subprocess.run([ffmpeg, "-i", "output.mp4", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-movflags", "+faststart", "output_h264.mp4"], check=True)
+
+print("Video converted successfully!")
