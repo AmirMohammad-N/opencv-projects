@@ -22,7 +22,7 @@ python opencv_project19.py
 
 ## Features
 
-- Video Capture
+- Video CaptureS
 - Feature Point Detection
 - Lucas-Kanade Optical Flow
 - Pyramidal Optical Flow
@@ -30,6 +30,7 @@ python opencv_project19.py
 - Video Output Saving
 - Real-Time Frame Display
 
+
 ## Output
 
-https://github.com/user-attachments/assets/8d21654b-e363-418c-b8ee-72acc837ea00
+https://github.com/user-attachments/assets/b10f3d70-eb81-4af0-a2b1-0771ae84354b
