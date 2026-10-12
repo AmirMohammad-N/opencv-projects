@@ -32,4 +32,4 @@ python opencv_project19.py
 
 ## Output
 
-https://github.com/user-attachments/assets/8d21654b-e363-418c-b8ee-72acc837ea00
+https://github.com/user-attachments/assets/be35007e-b2fd-4320-a3d0-31e01079062c
