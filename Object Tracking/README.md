@@ -30,4 +30,5 @@ python "Object Tracking.py"
 
 ## Output
 
-<video src="https://github.com/user-attachments/assets/8bbaab2e-c237-423a-ac56-7ea1d62a4882" controls width="640"></video>
+
+[Watch the demo video](https://github.com/user-attachments/assets/8bbaab2e-c237-423a-ac56-7ea1d62a4882)
