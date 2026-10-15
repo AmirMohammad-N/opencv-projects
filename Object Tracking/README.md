@@ -30,4 +30,4 @@ python "Object Tracking.py"
 
 ## Output
 
-The processed video is saved as `tracking_output.mp4`.
+[Watch the demo video](https://github.com/user-attachments/assets/596b9d1a-d52a-48fa-b0ef-d3670f848518)
