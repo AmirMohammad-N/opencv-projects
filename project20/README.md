@@ -30,4 +30,4 @@ python opencv_project20.py
 
 ## Output
 
-The program displays the original video and the foreground mask in separate windows.
+<img width="1280" height="503" alt="photo_2026-10-15_14-33-17" src="https://github.com/user-attachments/assets/5fded1e3-466b-4cbc-b8af-ca73bbaacccc" />
