@@ -30,4 +30,6 @@ python "Object Tracking.py"
 
 ## Output
 
-[Watch the Object Tracking Demo](https://github.com/user-attachments/assets/4dc2754d-cf03-459a-b8bc-61f4c71d2f74)
+## Output
+
+https://github.com/user-attachments/assets/4dc2754d-cf03-459a-b8bc-61f4c71d2f74
